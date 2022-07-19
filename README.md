@@ -8,4 +8,7 @@
 
 - [X] *[Engineering Readings](https://github.com/falashadegreene/reading-notes-401/engineeringreading.md)*
 
+- [X] *[reading 2](https://github.com/falashadegreene/reading-notes-401/class02.md)*
+
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
