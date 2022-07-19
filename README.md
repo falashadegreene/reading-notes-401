@@ -6,4 +6,6 @@
 - [X] *[prework-growth-mindset](https://github.com/falashadegreene/reading-notes-401/prework.md)*
 - [X] *[Intro to SQL](https://github.com/falashadegreene/reading-notes-401/introtoSQL.md)*
 
+- [X] *[Engineering Readings](https://github.com/falashadegreene/reading-notes-401/engineeringreading.md)*
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
