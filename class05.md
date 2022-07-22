@@ -1,17 +1,20 @@
-# Implmentation
+# Implementation
 
 ## vocabulary/definition list
 
-- **Fibonacci Series** - The Fibonacci series is the sequence of numbers (also called Fibonacci numbers), where every number is the sum of the preceding two numbers, such that the first two terms are '0' and '1'
+- **Linked List** - A data structure that contains nodes that links/points to the next node in the list.
 
-- **Lucas Numbers** - The Lucas series has the same recursive relationship as the Fibonacci sequence, where each term is the sum of the two previous terms, but with different starting values ('2' and '1')
+- **Singly** - Singly refers to the number of references the node has. A Singly linked list means that there is only one reference, and the reference points to the Next node in a linked list.
 
-- **Recursion** - Recursion is a common mathematical and programming concept. It means that a function calls itself. This has the benefit of meaning that you can loop through data to reach a result. (credit: https://www.w3schools.com/python/)
+- **Doubly** - Doubly refers to there being two (double) references within the node. A Doubly linked list means that there is a reference to both the Next and Previous node
 
-- **Dictionary** - Dictionaries are used to store data values in key:value pairs.
+- **Node** - Nodes are the individual items/links that live in a linked list. Each node contains the data for each link.
 
-- **Binary Search** - Binary search is a searching algorithm which is used to search an element from a sorted array
+- **Linear data structures** - Means a sequence and an order to how they are constructed and traversed.
 
-- **Sequential Search** - The sequential search is a searching algorithm that checks each item in a data structure from the beginning to find the target value (credit: https://thecleverprogrammer.com/)
+- **Non-linear data structures** - Are items that don’t have to be arranged in order, which means that we could traverse the data structure non-sequentially.
 
-- Big O (I'm still trying to understand this concept myself) - The notation Ο(n) is the formal way to express the upper bound of an algorithm's running time. (credit: https://www.tutorialspoint.com/python_data_structure/python_big_o_notation.htm)
+- **Static data structures** - Data structures that grow and shrink as you need them to by allocating and deallocating memory from a place called the heap
+
+- **Big O Notation** - is a way of evaluating the performance of an algorithm. it is a way to express the amount of time that a function, action, or algorithm takes to run based on how many elements we pass to that function. (credit: https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
+
