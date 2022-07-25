@@ -16,4 +16,6 @@
 
 - [X] *[reading 5](https://github.com/falashadegreene/reading-notes-401/class05.md)*
 
+- [X] *[reading 6](https://github.com/falashadegreene/reading-notes-401/class06.md)*
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
