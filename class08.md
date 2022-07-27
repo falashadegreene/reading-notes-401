@@ -11,12 +11,12 @@ There are three things needed for a python list to work.
 
 ## Creating a list with range
 
-`# construct a basic list using range() and list comprehensions
+construct a basic list using range() and list comprehensions
 syntax
 [ expression for item in list ]
 digits = [x for x in range(10)]
 
-print(digits)`
+print(digits)
 
 output: 
 
