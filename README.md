@@ -22,4 +22,6 @@
 
 - [X] *[reading 8](https://github.com/falashadegreene/reading-notes-401/class08.md)*
 
+- [X] *[reading 11](https://github.com/falashadegreene/reading-notes-401/class11.md)*
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
