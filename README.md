@@ -24,11 +24,10 @@
 
 - [X] *[reading 11](https://github.com/falashadegreene/reading-notes-401/class11.md)*
 
-- [X] *[reading 14](https://github.com/falashadegreene/reading-notes-401/class14.md)
-*
+- [X] [reading 14](https://github.com/falashadegreene/reading-notes-401/class14.md)
 
-- [X] *[reading 15](https://github.com/falashadegreene/reading-notes-401/class15.md)
-*
+- [X] [reading 15](https://github.com/falashadegreene/reading-notes-401/class15.md)
 
+- [X] [reading 16](https://github.com/falashadegreene/reading-notes-401/class16.md)
 
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
