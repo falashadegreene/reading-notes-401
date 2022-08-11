@@ -32,4 +32,6 @@
 
 - [X] [reading 18](https://github.com/falashadegreene/reading-notes-401/class18.md)
 
+- [X] [reading 19](https://github.com/falashadegreene/reading-notes-401/class19.md)
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
