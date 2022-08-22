@@ -27,6 +27,11 @@ class Member(models.Model):
 
 ## URLs and views
 
+A clean, elegant URL scheme is an important detail in a high-quality web application. Django encourages beautiful URL design and doesn’t put any cruft in URLs, like .php or .asp.
+
+To design URLs for an application, you create a Python module called a URLconf. Like a table of contents for your app, it contains a simple mapping between URL patterns and your views.
+(credit: https://www.djangoproject.com/start/ )
+
 from django.urls import path
 
 from . import views
